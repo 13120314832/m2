@@ -13,8 +13,6 @@
 //     Header,Footer
 //   ]
 // })
-
-
 <template>
   <div id="app">
     <!-- <h1>{{title}}</h1>
@@ -89,11 +87,11 @@ li{
   /* list-style-type:none; */
   margin: 10px 35px 10px 0;
   color:black;
-  padding: 0 0 1px 0;
+  /* padding: 0 0 1px 0; */
   border: 1px solid black;  
 }
 span{
-  color: red;  
+  color: red;
 }
 .finishen{
   text-decoration: line-through;/*删除线*/
